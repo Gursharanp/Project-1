@@ -1,0 +1,36 @@
+*{
+    background-color: lightcyan;
+    margin: 0;
+}
+.parent div{
+    display: flex;
+    align-items:start;
+    justify-content: center;
+}
+.Div-1{
+    background-color: lightseagreen;
+
+
+}
+.Div-2{
+    background-color: lightseagreen;
+}
+.User-1{
+    display: flex;
+    align-items: center !important;
+    justify-content: center !important;
+    height: 50px;
+    width: 100px;
+    background-color: blue;
+    color: cornsilk;
+    border-radius: 10px;
+}
+input[type=text]{
+    background-color: cornsilk;
+    margin: 10px;
+    border-radius:10px ;
+}
+label{
+    text-align: center;
+    font-size: 20px;
+}
